@@ -1,24 +1,24 @@
 <div align="center">
 
-![Goood title card](assets/banner.svg)
+![Goood title card](assets/banner.svg?v=2)
 
 </div>
 
 Hi, I'm Goood. I study Software and AI Engineering at **CMKL University**, and I build graphics pipelines, low-level game mechanics, containerized platforms, and multi-agent game systems.
 
-![](assets/divider.svg)
+![](assets/divider.svg?v=2)
 
 ## Now showing
 
-![Featured projects](assets/projects.svg)
+![Featured projects](assets/projects.svg?v=2)
 
-![](assets/divider.svg)
+![](assets/divider.svg?v=2)
 
 ## The skill tree
 
-![Skill tree](assets/skill-tree.svg)
+![Skill tree](assets/skill-tree.svg?v=2)
 
-![](assets/divider.svg)
+![](assets/divider.svg?v=2)
 
 ## The vibe and engineering lore
 
@@ -27,11 +27,11 @@ Hi, I'm Goood. I study Software and AI Engineering at **CMKL University**, and I
 - **Conventional commits purist:** `fix:` and `feat:` are not suggestions, they are scripture. Clean Docker bridge networks, spotless Git trees, zero unreviewed merges.
 - **Apple Silicon terminal gremlin:** I live inside macOS Unix shells with `uv`, custom shell scripts, and local LLM toolchains running hot.
 
-![](assets/divider.svg)
+![](assets/divider.svg?v=2)
 
 ## Daily driver meter
 
-![LLM daily driver meter](assets/ai-meter.svg)
+![LLM daily driver meter](assets/ai-meter.svg?v=2)
 
 <div align="center">
 

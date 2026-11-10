@@ -11,6 +11,7 @@
         font-family: 'Chalkboard SE', 'Marker Felt', 'Segoe Print', 'Bradley Hand', 'Comic Sans MS', cursive, sans-serif;
         font-weight: 700;
         fill: #ffffff;
+        text-rendering: geometricPrecision;
       }
       .scene-label {
         font-family: 'SF Mono', 'JetBrains Mono', 'Menlo', 'Consolas', monospace;
@@ -21,7 +22,7 @@
       }
       .tag-text {
         font-family: 'Chalkboard SE', 'Marker Felt', 'Segoe Print', 'Bradley Hand', cursive, sans-serif;
-        font-size: 13px;
+        font-size: 12.5px;
         font-weight: 600;
         fill: #3b2f2f;
       }
@@ -48,17 +49,16 @@
       <rect x="34" y="92" width="290" height="200" rx="12" fill="#fff" stroke="#3b2f2f" stroke-width="2.5"/>
       <rect x="34" y="92" width="290" height="44" rx="12" fill="#e07a3f" stroke="#3b2f2f" stroke-width="2.5"/>
       <rect x="34" y="92" width="290" height="44" rx="12" fill="url(#hatch)"/>
-      <rect x="48" y="252" width="196" height="26" rx="13" fill="#e07a3f" fill-opacity="0.2" stroke="#3b2f2f" stroke-width="2"/>
+      <rect x="48" y="252" width="210" height="26" rx="13" fill="#e07a3f" fill-opacity="0.2" stroke="#3b2f2f" stroke-width="2"/>
     </g>
-    <text x="49" y="122" font-size="19" font-weight="700" fill="#2b1e1a" opacity="0.45">Aberration</text>
-    <text x="48" y="121" font-size="19" class="card-title">Aberration</text>
+    <text x="48" y="120" font-size="18.5" class="card-title">Aberration</text>
     <text x="312" y="120" text-anchor="end" class="scene-label">SCENE 01</text>
     <text x="48" y="158" class="doodle-font" font-size="13" opacity="0.68">BoomerMcShooter</text>
-    <text x="48" y="184" class="doodle-font" font-size="14">Underground boomer shooter with</text>
-    <text x="48" y="204" class="doodle-font" font-size="14">brainrot enemy archetypes,</text>
-    <text x="48" y="224" class="doodle-font" font-size="14">procedural wave spawning and</text>
-    <text x="48" y="244" class="doodle-font" font-size="14">custom HLSL/GLSL shaders.</text>
-    <text x="58" y="270" class="tag-text">C# / Unity / HLSL / GLSL</text>
+    <text x="48" y="184" class="doodle-font" font-size="13.5">Underground boomer shooter with</text>
+    <text x="48" y="204" class="doodle-font" font-size="13.5">brainrot enemy archetypes,</text>
+    <text x="48" y="224" class="doodle-font" font-size="13.5">procedural wave spawning and</text>
+    <text x="48" y="244" class="doodle-font" font-size="13.5">custom HLSL/GLSL shaders.</text>
+    <text x="153" y="269" text-anchor="middle" class="tag-text">C# / Unity / HLSL / GLSL</text>
   </g>
 
   <!-- Card 2: Munchbox -->
@@ -68,17 +68,16 @@
       <rect x="342" y="92" width="290" height="200" rx="12" fill="#fff" stroke="#3b2f2f" stroke-width="2.5"/>
       <rect x="342" y="92" width="290" height="44" rx="12" fill="#3f7fbf" stroke="#3b2f2f" stroke-width="2.5"/>
       <rect x="342" y="92" width="290" height="44" rx="12" fill="url(#hatch)"/>
-      <rect x="356" y="252" width="212" height="26" rx="13" fill="#3f7fbf" fill-opacity="0.2" stroke="#3b2f2f" stroke-width="2"/>
+      <rect x="356" y="252" width="224" height="26" rx="13" fill="#3f7fbf" fill-opacity="0.2" stroke="#3b2f2f" stroke-width="2"/>
     </g>
-    <text x="357" y="122" font-size="19" font-weight="700" fill="#1a2634" opacity="0.45">Munchbox</text>
-    <text x="356" y="121" font-size="19" class="card-title">Munchbox</text>
+    <text x="356" y="120" font-size="18.5" class="card-title">Munchbox</text>
     <text x="620" y="120" text-anchor="end" class="scene-label">SCENE 02</text>
     <text x="356" y="158" class="doodle-font" font-size="13" opacity="0.68">stock, but smarter</text>
-    <text x="356" y="184" class="doodle-font" font-size="14">AI restaurant inventory engine:</text>
-    <text x="356" y="204" class="doodle-font" font-size="14">Bayesian structural time series</text>
-    <text x="356" y="224" class="doodle-font" font-size="14">forecasting, bill of materials</text>
-    <text x="356" y="244" class="doodle-font" font-size="14">conversion, custom dashboards.</text>
-    <text x="366" y="270" class="tag-text">Python / BSTS / SQL / D3.js</text>
+    <text x="356" y="184" class="doodle-font" font-size="13.5">AI restaurant inventory engine:</text>
+    <text x="356" y="204" class="doodle-font" font-size="13.5">Bayesian structural time series</text>
+    <text x="356" y="224" class="doodle-font" font-size="13.5">forecasting, bill of materials</text>
+    <text x="356" y="244" class="doodle-font" font-size="13.5">conversion, custom dashboards.</text>
+    <text x="468" y="269" text-anchor="middle" class="tag-text">Python / BSTS / SQL / D3.js</text>
   </g>
 
   <!-- Card 3: SportLink -->
@@ -88,17 +87,16 @@
       <rect x="650" y="92" width="290" height="200" rx="12" fill="#fff" stroke="#3b2f2f" stroke-width="2.5"/>
       <rect x="650" y="92" width="290" height="44" rx="12" fill="#3f9a6a" stroke="#3b2f2f" stroke-width="2.5"/>
       <rect x="650" y="92" width="290" height="44" rx="12" fill="url(#hatch)"/>
-      <rect x="664" y="252" width="218" height="26" rx="13" fill="#3f9a6a" fill-opacity="0.2" stroke="#3b2f2f" stroke-width="2"/>
+      <rect x="664" y="252" width="228" height="26" rx="13" fill="#3f9a6a" fill-opacity="0.2" stroke="#3b2f2f" stroke-width="2"/>
     </g>
-    <text x="665" y="122" font-size="19" font-weight="700" fill="#182e22" opacity="0.45">SportLink</text>
-    <text x="664" y="121" font-size="19" class="card-title">SportLink</text>
+    <text x="664" y="120" font-size="18.5" class="card-title">SportLink</text>
     <text x="928" y="120" text-anchor="end" class="scene-label">SCENE 03</text>
     <text x="664" y="158" class="doodle-font" font-size="13" opacity="0.68">zero-downtime stack</text>
-    <text x="664" y="184" class="doodle-font" font-size="14">Containerized multi-service sports</text>
-    <text x="664" y="204" class="doodle-font" font-size="14">platform on cloud infra with</text>
-    <text x="664" y="224" class="doodle-font" font-size="14">GitHub Actions CI/CD and</text>
-    <text x="664" y="244" class="doodle-font" font-size="14">reverse proxy routing.</text>
-    <text x="674" y="270" class="tag-text">TypeScript / Docker / Caddy</text>
+    <text x="664" y="184" class="doodle-font" font-size="13.5">Containerized multi-service sports</text>
+    <text x="664" y="204" class="doodle-font" font-size="13.5">platform on cloud infra with</text>
+    <text x="664" y="224" class="doodle-font" font-size="13.5">GitHub Actions CI/CD and</text>
+    <text x="664" y="244" class="doodle-font" font-size="13.5">reverse proxy routing.</text>
+    <text x="778" y="269" text-anchor="middle" class="tag-text">TypeScript / Docker / Caddy</text>
   </g>
 
   <!-- Card 4: Virtual Paddock -->
@@ -108,17 +106,16 @@
       <rect x="34" y="310" width="290" height="200" rx="12" fill="#fff" stroke="#3b2f2f" stroke-width="2.5"/>
       <rect x="34" y="310" width="290" height="44" rx="12" fill="#2f9aa8" stroke="#3b2f2f" stroke-width="2.5"/>
       <rect x="34" y="310" width="290" height="44" rx="12" fill="url(#hatch)"/>
-      <rect x="48" y="470" width="204" height="26" rx="13" fill="#2f9aa8" fill-opacity="0.2" stroke="#3b2f2f" stroke-width="2"/>
+      <rect x="48" y="470" width="214" height="26" rx="13" fill="#2f9aa8" fill-opacity="0.2" stroke="#3b2f2f" stroke-width="2"/>
     </g>
-    <text x="49" y="340" font-size="19" font-weight="700" fill="#162d30" opacity="0.45">Virtual Paddock</text>
-    <text x="48" y="339" font-size="19" class="card-title">Virtual Paddock</text>
+    <text x="48" y="338" font-size="18.5" class="card-title">Virtual Paddock</text>
     <text x="312" y="338" text-anchor="end" class="scene-label">SCENE 04</text>
     <text x="48" y="376" class="doodle-font" font-size="13" opacity="0.68">endurance racing sim</text>
-    <text x="48" y="402" class="doodle-font" font-size="14">Uma Musume Endurance Championship</text>
-    <text x="48" y="422" class="doodle-font" font-size="14">web simulator: driver ratings,</text>
-    <text x="48" y="442" class="doodle-font" font-size="14">knockout qualifying and grid</text>
-    <text x="48" y="462" class="doodle-font" font-size="14">penalties deployed on Vercel.</text>
-    <text x="58" y="488" class="tag-text">TypeScript / React / Vite</text>
+    <text x="48" y="402" class="doodle-font" font-size="13.5">Uma Musume Endurance Championship</text>
+    <text x="48" y="422" class="doodle-font" font-size="13.5">web simulator: driver ratings,</text>
+    <text x="48" y="442" class="doodle-font" font-size="13.5">knockout qualifying and grid</text>
+    <text x="48" y="462" class="doodle-font" font-size="13.5">penalties deployed on Vercel.</text>
+    <text x="155" y="487" text-anchor="middle" class="tag-text">TypeScript / React / Vite</text>
   </g>
 
   <!-- Card 5: HidMark -->
@@ -128,17 +125,16 @@
       <rect x="342" y="310" width="290" height="200" rx="12" fill="#fff" stroke="#3b2f2f" stroke-width="2.5"/>
       <rect x="342" y="310" width="290" height="44" rx="12" fill="#b89a2e" stroke="#3b2f2f" stroke-width="2.5"/>
       <rect x="342" y="310" width="290" height="44" rx="12" fill="url(#hatch)"/>
-      <rect x="356" y="470" width="182" height="26" rx="13" fill="#b89a2e" fill-opacity="0.2" stroke="#3b2f2f" stroke-width="2"/>
+      <rect x="356" y="470" width="190" height="26" rx="13" fill="#b89a2e" fill-opacity="0.2" stroke="#3b2f2f" stroke-width="2"/>
     </g>
-    <text x="357" y="340" font-size="19" font-weight="700" fill="#2e2612" opacity="0.45">HidMark</text>
-    <text x="356" y="339" font-size="19" class="card-title">HidMark</text>
+    <text x="356" y="338" font-size="18.5" class="card-title">HidMark</text>
     <text x="620" y="338" text-anchor="end" class="scene-label">SCENE 05</text>
     <text x="356" y="376" class="doodle-font" font-size="13" opacity="0.68">invisible ink for pixels</text>
-    <text x="356" y="402" class="doodle-font" font-size="14">Native macOS utility with a Rust</text>
-    <text x="356" y="422" class="doodle-font" font-size="14">core: steganographic watermarks,</text>
-    <text x="356" y="442" class="doodle-font" font-size="14">luma key embedding and AI</text>
-    <text x="356" y="462" class="doodle-font" font-size="14">synthetic artifact detection.</text>
-    <text x="366" y="488" class="tag-text">Swift / SwiftUI / Rust</text>
+    <text x="356" y="402" class="doodle-font" font-size="13.5">Native macOS utility with a Rust</text>
+    <text x="356" y="422" class="doodle-font" font-size="13.5">core: steganographic watermarks,</text>
+    <text x="356" y="442" class="doodle-font" font-size="13.5">luma key embedding and AI</text>
+    <text x="356" y="462" class="doodle-font" font-size="13.5">synthetic artifact detection.</text>
+    <text x="451" y="487" text-anchor="middle" class="tag-text">Swift / SwiftUI / Rust</text>
   </g>
 
   <!-- Card 6: Multi-Agent Orchestrator -->
@@ -148,16 +144,15 @@
       <rect x="650" y="310" width="290" height="200" rx="12" fill="#fff" stroke="#3b2f2f" stroke-width="2.5"/>
       <rect x="650" y="310" width="290" height="44" rx="12" fill="#7a5bb5" stroke="#3b2f2f" stroke-width="2.5"/>
       <rect x="650" y="310" width="290" height="44" rx="12" fill="url(#hatch)"/>
-      <rect x="664" y="470" width="204" height="26" rx="13" fill="#7a5bb5" fill-opacity="0.2" stroke="#3b2f2f" stroke-width="2"/>
+      <rect x="664" y="470" width="216" height="26" rx="13" fill="#7a5bb5" fill-opacity="0.2" stroke="#3b2f2f" stroke-width="2"/>
     </g>
-    <text x="665" y="340" font-size="16.5" font-weight="700" fill="#231934" opacity="0.45">Multi-Agent Orchestrator</text>
-    <text x="664" y="339" font-size="16.5" class="card-title">Multi-Agent Orchestrator</text>
+    <text x="664" y="338" font-size="15" class="card-title">Multi-Agent Orchestrator</text>
     <text x="928" y="338" text-anchor="end" class="scene-label">SCENE 06</text>
     <text x="664" y="376" class="doodle-font" font-size="13" opacity="0.68">design doc in, game out</text>
-    <text x="664" y="402" class="doodle-font" font-size="14">Open-source pipeline: local Qwen</text>
-    <text x="664" y="422" class="doodle-font" font-size="14">and OpenCode parse GDDs,</text>
-    <text x="664" y="442" class="doodle-font" font-size="14">write C# and automate</text>
-    <text x="664" y="462" class="doodle-font" font-size="14">procedural Blender modeling.</text>
-    <text x="674" y="488" class="tag-text">Python / C# / Blender API</text>
+    <text x="664" y="402" class="doodle-font" font-size="13.5">Open-source pipeline: local Qwen</text>
+    <text x="664" y="422" class="doodle-font" font-size="13.5">and OpenCode parse GDDs,</text>
+    <text x="664" y="442" class="doodle-font" font-size="13.5">write C# and automate</text>
+    <text x="664" y="462" class="doodle-font" font-size="13.5">procedural Blender modeling.</text>
+    <text x="772" y="487" text-anchor="middle" class="tag-text">Python / C# / Blender API</text>
   </g>
 </svg>
