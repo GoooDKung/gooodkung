@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 250" width="980" height="250" role="img" aria-label="GOOOD — Software and AI Engineering @ CMKL University">
+  <title>GOOOD — Software and AI Engineering @ CMKL University</title>
+  <defs>
+    <style>
+      .doodle-text {
+        font-family: 'Bradley Hand', 'Chalkboard SE', 'Marker Felt', 'Segoe Print', 'Comic Sans MS', cursive, sans-serif;
+        fill: #fbf6ea;
+      }
+      .mono-text {
+        font-family: 'JetBrains Mono', 'SF Mono', 'Fira Code', 'Menlo', 'Consolas', monospace;
+        fill: #fbf6ea;
+      }
+      .sprocket {
+        fill: #fbf6ea;
+        opacity: 0.85;
+      }
+    </style>
+    <filter id="doodle" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="2" seed="2" result="n">
+        <animate attributeName="seed" values="2;5;9;4;7" dur="1.1s" calcMode="discrete" repeatCount="indefinite"/>
+      </feTurbulence>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="2.6" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <pattern id="hatch" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="7" stroke="#3b2f2f" stroke-opacity="0.28" stroke-width="2"/>
+    </pattern>
+    <clipPath id="bclip">
+      <rect width="980" height="250" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#bclip)">
+    <!-- Deep Charcoal Cinema Film Container -->
+    <rect width="980" height="250" fill="#181716"/>
+
+    <!-- Subtle Darkroom Film Grain -->
+    <g opacity="0.07" fill="#fff">
+      <circle cx="97" cy="53" r="2"/><circle cx="194" cy="106" r="2.5"/><circle cx="291" cy="159" r="1"/><circle cx="388" cy="212" r="2"/>
+      <circle cx="485" cy="25" r="2.5"/><circle cx="582" cy="68" r="1"/><circle cx="679" cy="121" r="2"/><circle cx="776" cy="174" r="2.5"/>
+      <circle cx="873" cy="217" r="1"/><circle cx="87" cy="83" r="2.5"/><circle cx="184" cy="136" r="1"/><circle cx="281" cy="189" r="2"/>
+      <circle cx="475" cy="45" r="1"/><circle cx="572" cy="98" r="2"/><circle cx="669" cy="151" r="2.5"/><circle cx="766" cy="204" r="1"/>
+      <circle cx="77" cy="113" r="1"/><circle cx="174" cy="166" r="2"/><circle cx="368" cy="32" r="1"/><circle cx="465" cy="75" r="2"/>
+      <circle cx="562" cy="128" r="2.5"/><circle cx="659" cy="181" r="1"/><circle cx="853" cy="37" r="2"/><circle cx="940" cy="120" r="2"/>
+    </g>
+
+    <!-- 35mm Perforations Scrolling Left to Right -->
+    <g>
+      <g transform="translate(0, 6)">
+        <rect x="-28" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="0" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="28" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="56" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="84" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="112" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="140" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="168" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="196" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="224" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="252" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="280" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="308" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="336" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="364" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="392" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="420" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="448" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="476" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="504" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="532" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="560" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="588" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="616" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="644" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="672" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="700" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="728" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="756" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="784" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="812" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="840" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="868" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="896" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="924" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="952" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="980" y="0" width="16" height="10" rx="2" class="sprocket"/>
+      </g>
+      <g transform="translate(0, 234)">
+        <rect x="-28" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="0" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="28" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="56" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="84" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="112" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="140" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="168" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="196" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="224" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="252" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="280" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="308" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="336" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="364" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="392" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="420" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="448" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="476" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="504" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="532" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="560" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="588" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="616" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="644" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="672" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="700" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="728" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="756" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="784" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="812" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="840" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="868" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="896" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="924" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="952" y="0" width="16" height="10" rx="2" class="sprocket"/><rect x="980" y="0" width="16" height="10" rx="2" class="sprocket"/>
+      </g>
+      <animateTransform attributeName="transform" type="translate" from="-28 0" to="0 0" dur="1.4s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- Left Hand-Drawn Doodle Hero Text -->
+    <g filter="url(#doodle)" class="doodle-text">
+      <text x="54" y="64" font-size="14" letter-spacing="5" opacity="0.7">A  GOOOD  PRODUCTION</text>
+      <text x="52" y="142" font-size="78" font-weight="700" letter-spacing="2">GOOOD</text>
+      <rect x="54" y="156" width="310" height="4" rx="2" fill="#e07a3f">
+        <animate attributeName="width" values="0;310;310;0;0" keyTimes="0;0.12;0.9;0.97;1" dur="10s" repeatCount="indefinite"/>
+      </rect>
+      <text x="54" y="188" font-size="19" opacity="0.95">Software and AI Engineering @ CMKL University</text>
+      <text x="54" y="214" font-size="14.5" opacity="0.72">Architecting absolute cinema across game loops, shaders &amp; zero-downtime stacks.</text>
+    </g>
+
+    <!-- Top Right REC & Scene Marker -->
+    <g class="mono-text" font-size="13">
+      <circle cx="792" cy="46" r="6.5" fill="#e0412f">
+        <animate attributeName="opacity" values="1;0.15;1" dur="1.4s" repeatCount="indefinite"/>
+      </circle>
+      <text x="806" y="51" opacity="0.9" font-weight="700">REC</text>
+      <text x="848" y="51" opacity="0.55">SCENE 01</text>
+    </g>
+
+    <!-- Top Right Hand-Drawn Clapperboard Doodle (Pushed down to clear SCENE 01) -->
+    <g filter="url(#doodle)" transform="translate(765, 92) rotate(-5 80 58)">
+      <!-- Hinged Upper Clap Stick (Tilted Open) -->
+      <g transform="rotate(-9 10 22)">
+        <rect x="10" y="6" width="146" height="16" rx="3" fill="#181716" stroke="#fbf6ea" stroke-width="2.3"/>
+        <path d="M 30 22 L 42 6 M 62 22 L 74 6 M 94 22 L 106 6 M 126 22 L 138 6" stroke="#fbf6ea" stroke-width="2.5"/>
+      </g>
+      <!-- Lower Clap Stick -->
+      <rect x="10" y="24" width="146" height="15" rx="3" fill="#181716" stroke="#fbf6ea" stroke-width="2.3"/>
+      <path d="M 30 24 L 42 39 M 62 24 L 74 39 M 94 24 L 106 39 M 126 24 L 138 39" stroke="#fbf6ea" stroke-width="2.5"/>
+      <!-- Clapperboard Hinge Pin with Red Accent Dot -->
+      <circle cx="18" cy="24" r="3.5" fill="#e0412f"/>
+
+      <!-- Slate Body -->
+      <rect x="10" y="39" width="146" height="68" rx="5" fill="#181716" stroke="#fbf6ea" stroke-width="2.4"/>
+      <path d="M 24 62 L 142 62 M 24 84 L 142 84 M 84 62 L 84 107" stroke="#fbf6ea" stroke-width="1.8" opacity="0.75"/>
+      <text x="83" y="55" text-anchor="middle" class="mono-text" font-size="10" opacity="0.85">PROD. GOOOD</text>
+      <text x="54" y="77" text-anchor="middle" class="mono-text" font-size="9.5" opacity="0.75">SCN 01</text>
+      <text x="113" y="77" text-anchor="middle" class="mono-text" font-size="9.5" opacity="0.75">TAKE 01</text>
+      <text x="54" y="99" text-anchor="middle" class="mono-text" font-size="9.5" fill="#e07a3f">120 FPS</text>
+      <text x="113" y="99" text-anchor="middle" class="mono-text" font-size="9.5" opacity="0.75">35MM</text>
+    </g>
+  </g>
+</svg>
