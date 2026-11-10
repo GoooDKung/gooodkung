@@ -4,7 +4,7 @@
 
 </div>
 
-Hi, I'm Goood. I study Software Engineering and AI Engineering at **CMKL University**, and I build graphics pipelines, low-level game mechanics, containerized platforms, and multi-agent game systems.
+Hi, I'm Goood. I study Software and AI Engineering at **CMKL University**, and I build graphics pipelines, low-level game mechanics, containerized platforms, and multi-agent game systems.
 
 ![](assets/divider.svg)
 
